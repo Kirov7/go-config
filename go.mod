@@ -4,9 +4,9 @@ go 1.18
 
 require (
 	github.com/e421083458/golang_common v1.2.1
-	github.com/garyburd/redigo v1.6.4
 	github.com/gin-gonic/gin v1.8.1
 	github.com/go-sql-driver/mysql v1.6.0
+	github.com/gomodule/redigo v1.8.9
 	github.com/spf13/viper v1.14.0
 	gorm.io/driver/mysql v1.4.4
 	gorm.io/gorm v1.24.2
